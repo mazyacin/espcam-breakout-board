@@ -1,2 +1,2 @@
 # espcam-breakout-board
-high end espcam breackout board for IOT and monetering
+high end espcam breackout board for IOT and monetering, so there has been a problem with the espcam and its the programming because it does not have a USB to UART converter so i am making a breakout board for it that solves that problem and adds more features like :tp5100 for charging ,MT3608 for 5v,3.3v,output, bme680 for IOT  also an IMU mpu6000 ,BMS( DW01A protection IC with 2 mosfets)
